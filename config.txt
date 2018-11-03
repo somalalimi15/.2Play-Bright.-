@@ -1,6 +1,6 @@
 token=NTA4MzE5NDA2NTk4OTE0MDY4.Dr9jzA.iduikku1Zb0YXbMenKK-v6WVuZo
-owner=194559857536270336 
+owner=368768446327947265 
 prefix=2
-game=Type|1Help.
+game=Type|2Help.
 stayinchannel=true
 songinstatus=true
